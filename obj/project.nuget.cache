@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4n6rZwdPMBhHiXLq5vv7fEm3ek1F5FVWjBAjpdOp0PckTkuuSz9qxPRUOOuuXmZV8bImKFoYCe+vbtt8Bk2Vw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\codeworks\\onetomany\\onetomany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cory\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Cory\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Cory\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Cory\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Cory\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Cory\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
